@@ -689,3 +689,31 @@ main #hreo-img{
     font-size: 24px;
   }
 }
+
+
+
+footer {
+  background-color: #867e7e;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  margin-top: 50px;
+  font-size: 18px;
+}
+
+footer .social-icons {
+  margin-top: 10px;
+}
+
+footer .social-icons a {
+  color: white;
+  text-decoration: none;
+  font-size: 22px;
+  margin: 0 10px;
+  transition: 0.3s ease;
+}
+
+footer .social-icons a:hover {
+  color: black; /* gold hover effect */
+  transform: scale(1.2);
+}
